@@ -7,14 +7,6 @@
 
 ---
 
-## 📸 Preview
-
-<div align="center">
-  <img src="./assets/preview.png" alt="Preview do Projeto" width="100%">
-</div>
-
----
-
 ## 📝 Sobre o Projeto
 
 Este projeto foi desenvolvido durante a trilha de estudos da **Rocketseat**. O objetivo foi replicar um layout de alta fidelidade focado em formulários complexos e design responsivo.
