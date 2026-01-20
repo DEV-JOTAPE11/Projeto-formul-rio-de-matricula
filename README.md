@@ -3,6 +3,10 @@
 ![Rocketseat](https://img.shields.io/badge/Projeto-Rocketseat-8257e5?style=flat&logo=rocket&logoColor=white)
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+<p align="center">
+  <img alt="Preview do Portfólio" src="assets/print-mat.png" width="100%" style="border-radius: 8px; border: 2px solid #00eeff;">
+</p>
+
 > Interface de formulário de matrícula desenvolvida como parte de um desafio prático da **Rocketseat**.
 
 ---
